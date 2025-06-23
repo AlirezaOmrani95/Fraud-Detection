@@ -1,7 +1,7 @@
 ### Fraud Detection Project
 
 ## Overview
-This project was implemented for detecting fraud from credit cards. So we had to process the raw data and extract the most useful features from them.
+This project was implemented for detecting fraud from credit cards. So we had to process the raw data and extract the most useful features from it.
 
 ## Installation
 1. **Clone the repository**:
@@ -13,13 +13,13 @@ This project was implemented for detecting fraud from credit cards. So we had to
 
 ## Files in this Repository
 
-- **Train.py**: Main script to compare CVs with job descriptions using LLM models.
+- **Train.py**: Main script to train a model to detect fraud.
 
 - **requirements.txt**: List of required Python packages.
 
-- **visualization**: Inlcudes Python file with functions for EDA visualization.
+- **visualization**: Includes a Python file with functions for EDA visualization.
 
-- **utils**: Includes utils and data preprocessing python files.
+- **utils**: Includes utils and data preprocessing Python files.
 
 - **README.md**: Documentation for the repository.
 
